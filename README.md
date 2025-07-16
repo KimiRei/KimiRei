@@ -22,14 +22,7 @@ Saya seorang mahasiswa IT sarjana dengan semangat untuk segala hal teknologi! Sa
 ---
 
 ## Pengalaman Profil Interaktif Saya!
-
-Untuk pengalaman yang lebih dinamis dan interaktif tentang profil saya (termasuk visualisasi keahlian dan hobi!), silakan kunjungi aplikasi web satu halaman ini:
-
-[![Pratinjau Profil Interaktif KimiRei](URL_GAMBAR_SCREENSHOT_ANDA_DI_SINI)](URL_APLIKASI_ANDA_DI_SINI)
-
-**[Lihat Profil Interaktif Saya di Sini!](URL_APLIKASI_ANDA_DI_SINI)**
-
-*(Klik gambar atau tautan di atas untuk menjelajahi profil interaktif penuh saya!)*
+_Later_
 
 ---
 
@@ -56,7 +49,6 @@ Ketika saya tidak sedang koding atau belajar, Anda bisa menemukan saya:
 
 * **Discord**: JustKimiRei / kimirei
 * **LinkedIn**: [Link Profil LinkedIn Anda]
-* **Email**: [your.email@example.com]
 
 ---
 
