@@ -48,7 +48,7 @@ Ketika saya tidak sedang koding atau belajar, Anda bisa menemukan saya:
 ## Cara Menghubungi Saya
 
 * **Discord**: JustKimiRei / kimirei
-* **LinkedIn**: [Link Profil LinkedIn Anda]
+* **LinkedIn**: Kimi Rei Constsntine
 
 ---
 
