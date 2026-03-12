@@ -5,51 +5,49 @@
 > 🌱 I’m currently learning web programming, genAI, software dev, and python.
 >
 > 📫 How to reach me :
-> - Discord : JustKimiRei/kimirei
+> * **Discord** : JustKimiRei/kimirei
+> > * **Bonuses**
+> * **LinkedIn**: [LinkedIn]:www.linkedin.com/in/justkimirei
+> * **Gravatar**: [Gravatar]:https://gravatar.com/justkimirei
 >
 > 🗿 Pronouns: He/Him
+> *Pronouciation: Kimi/Rei /kee-mee/ray*
 >
-> my hobbies playing games, travelling, and assembling some Gundam.
-> especially for growtopia codm....
+> my hobbies playing PC and Mobile games, travelling, and assembling some Gundam.
+> Also, I love maintaining somethings like mods in mc Java (fabric & quilt more simpler than forge) and prolly somekind of webs, Linux environment in WSL/TUI/Terminal only
+> and etc, _code_ :3
 
 # 👋 Halo! Saya @KimiRei!
 
----
-
 ## Tentang Saya
-Saya seorang mahasiswa IT sarjana dengan semangat untuk segala hal teknologi! Saya sangat tertarik pada **koding**, **Markdown**, dan **pemrograman** secara umum.
-
----
+> Saya seorang mahasiswa IT sarjana dengan semangat untuk segala hal teknologi! Saya sangat tertarik pada **koding**, **Markdown**, dan **pemrograman** secara umum.
 
 ## Pengalaman Profil Interaktif Saya!
-_Later_
-
----
+> _Later_
 
 ## Yang Sedang Saya Pelajari
 
-🌱 Saat ini, saya aktif mendalami:
-* **Pemrograman Web** (Front-end & Back-end)
-* **Generative AI** (GenAI)
-* **Pengembangan Perangkat Lunak**
-* **Python**
-
----
+> 🌱 Saat ini, saya aktif mendalami:
+> * **Pemrograman Web** (Front-end & Back-end)
+> * **Generative AI** (GenAI)
+> * **Pengembangan Perangkat Lunak**
+> * **Python**
 
 ## Hobi & Minat
 
-Ketika saya tidak sedang koding atau belajar, Anda bisa menemukan saya:
-* 🎮 Bermain game (terutama **Growtopia** dan **Call of Duty: Mobile**)
-* ✈️ Bepergian
-* 🤖 Merakit model **Gundam**
-
----
+> Ketika saya tidak sedang koding atau belajar, Anda bisa menemukan saya:
+> * 🎮 Bermain game PC dan Mobile
+> * ✈️ Bepergian
+> * 🤖 Merakit model **Gundam**
 
 ## Cara Menghubungi Saya
 
-* **Discord**: JustKimiRei / kimirei
-* **LinkedIn**: Kimi Rei Constantine
+> * **Discord**: JustKimiRei / kimirei
+> * **Bonuses**
+> * **LinkedIn**: [LinkedIn]:www.linkedin.com/in/justkimirei
+> * **Gravatar**: [Gravatar]:https://gravatar.com/justkimirei
 
----
+*Pronouns: He/Him/dia*
 
-*Pronouns: He/Him*
+*Pronouciation: Kimi/Rei /kee-mee/ray*
+
