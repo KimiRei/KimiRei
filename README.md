@@ -6,7 +6,9 @@
 >
 > 📫 How to reach me :
 > * **Discord** : JustKimiRei/kimirei
+> 
 > **Bonuses**
+>   
 > * **LinkedIn**: [LinkedIn]:www.linkedin.com/in/justkimirei
 > * **Gravatar**: [Gravatar]:https://gravatar.com/justkimirei
 >
@@ -43,7 +45,9 @@
 ## Cara Menghubungi Saya
 
 > * **Discord**: JustKimiRei / kimirei
+> 
 > **Bonuses**
+>   
 > * **LinkedIn**: [LinkedIn]:www.linkedin.com/in/justkimirei
 > * **Gravatar**: [Gravatar]:https://gravatar.com/justkimirei
 
